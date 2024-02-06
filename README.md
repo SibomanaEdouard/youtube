@@ -15,13 +15,8 @@ YouTube Clone is a web application that replicates the core features of YouTube,
 - User Accounts: Optional user accounts allow users to create playlists, like videos, and view their watch history.
 
 ## Demo
-![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/c01c77de-819c-443f-8746-a1ec6793770f)
-
 
 ![image](https://github.com/riteshk-007/Youtube-Clone/assets/135107962/c1e47d67-3651-480b-a8cd-edbb1b4810dd)
-
-
-You can access the live demo of YouTube Clone at [[(https://youtube-clone-by-ritesh.netlify.app)]](https://youtube-clone-by-ritesh.netlify.app/)).
 
 ## Getting Started
 
