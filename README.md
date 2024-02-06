@@ -86,7 +86,7 @@ YouTube Clone was developed for educational purposes and as a showcase of web de
 
 If you have any questions or suggestions, feel free to reach out to the project owner:
 
-- Ritesh Kumar
-- GitHub: [@riteshk-007](https://github.com/riteshk-007)
-- Email: rk0001945@gmail.com, codeshorts007@gmail.com
+- Aman Maddheshiya
+- GitHub: inbuilt-aura(https://github.com/inbuilt-aura)
+- Email: developeramanyt@gmail.com
 
